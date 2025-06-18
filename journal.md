@@ -3,9 +3,9 @@ title: "Nano long range FPV Drone"
 author: "greninja44"
 description: "A long range drone using 18650 batteries"
 created_at: "2025-06-16"
-Total time spent: 
+Total time spent: 11.5~12 hours
 ---
-## June 16 Night – Tiny Whoop Research :D  ~~~~ 1-1.5 hours
+## June 16 Night – Tiny Whoop Research :D  ~~~~ 2-3 hours
 
 Today night I didn’t do any building work,just full research.Got fully into the world of tiny whoops —>kept watching YouTube videos one after another. Started with basic builds but then I ended up seeing modded whoops, freestyle edits, tuning guides, and even long-range micro whoops Even though I’m building a nano 18650 cruiser, watching these gave me lots of ideas. Tiny whoops are crazy efficient — most of them run on 1S and still fly solid for 4–5 mins. People use super light components like micro motors and even BT2.0 connectors instead of bulky XT30. They tune everything so tightly just to save 0.5g.
 I saw how clean their wiring is, how compact the builds are. Everything matters in these small frames — even motor wire position and capacitor size. I think some of that applies to my build too. No ducts in my case, but weight saving and clean layout is definitely something I need to focus on more now.
@@ -98,7 +98,7 @@ I found this PInout diagram ( i will b using this while building)on Goku website
 ![image](https://github.com/user-attachments/assets/ea6d1c0f-1dcd-4e43-9c61-c072aec55302)
 
 
-## June 18 ( 1:00 PM) – Starting frame design :D  ~~~~ 4-5hours
+## June 18 ( 1:00 PM) – Starting frame design :D  ~~~~ 5-6 hours
 
 I properly sat down and designed the base plate for my custom drone, taking full inspiration from the Rekon35. Wanted it to be lightweight but strong, so I added those sleek cutouts in the arms and center. I measured out motor holes, and kept around 143 mm diagonal so my 3-inch props can fit perfectly. The mounting holes are standard 9x9 and 12x12, so my Flywoo motors will easily bolt on. I also gave slots for the battery strap 28 holes of 2.2x9.5 mm why so many holessss, and double-checked spacing for the GOKU F405 AIO board. After doing all the sketches, I made a full engineering drawing to lock the dimensions. Now it’s ready for CNC cutting or carbon sheet laser ( just kidding gonna 3d print the case i made this so i get idea of all dimensions)
 
@@ -119,18 +119,38 @@ For the battery section of my FPV drone, I chose to use a dual 18650 battery hol
 ![image](https://github.com/user-attachments/assets/c94358da-94de-4275-ab6b-425feb8378cb)
 
 
+Now its time for the compartment  to hold all the electronics 
+
+
 
 
 ![image](https://github.com/user-attachments/assets/22c0f377-b708-45f4-bba7-70356d35068f)
 
 
+
 ![image](https://github.com/user-attachments/assets/61092a4c-6f86-4173-99d0-f16b2ec4e291)
 
+
+
+
 ![image](https://github.com/user-attachments/assets/13f8945c-2d68-4afa-b1a3-d1c782e9c726)
+
+
+This is the base plate of the frame . i am adding two structures inspired from rekon 35 . i only designed one arm the other i just duplicated 
 
 
 ![image](https://github.com/user-attachments/assets/80539f89-c04e-47ff-ba7f-542121b01d19)
 
 
+
+This is the final rendered model:
+
+
+
 ![image](https://github.com/user-attachments/assets/ffe4fc18-3663-4047-aef3-898c83d1f9c3)
+
+
+
+Im gonna include all the 2d and 3d models in this repo :)
+I should still design a insta 360 holder and gps mount for taking good shots but would do it once the project gets approved 
 
