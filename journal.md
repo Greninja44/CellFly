@@ -121,6 +121,15 @@ For the battery section of my FPV drone, I chose to use a dual 18650 battery hol
 
 
 
+![image](https://github.com/user-attachments/assets/22c0f377-b708-45f4-bba7-70356d35068f)
+
+
+![image](https://github.com/user-attachments/assets/61092a4c-6f86-4173-99d0-f16b2ec4e291)
+
+![image](https://github.com/user-attachments/assets/13f8945c-2d68-4afa-b1a3-d1c782e9c726)
+
+
+![image](https://github.com/user-attachments/assets/80539f89-c04e-47ff-ba7f-542121b01d19)
 
 
 
