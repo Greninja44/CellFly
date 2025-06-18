@@ -98,11 +98,19 @@ I found this PInout diagram ( i will b using this while building)on Goku website
 ![image](https://github.com/user-attachments/assets/ea6d1c0f-1dcd-4e43-9c61-c072aec55302)
 
 
-## June 18 ( 3:00 PM) – Starting frame design :D  ~~~~ 1-1.5 hours
+## June 18 ( 3:00 PM) – Starting frame design :D  ~~~~ 4-5hours
+
+I properly sat down and designed the base plate for my custom drone, taking full inspiration from the Rekon35. Wanted it to be lightweight but strong, so I added those sleek cutouts in the arms and center. I measured out motor holes, and kept around 143 mm diagonal so my 3-inch props can fit perfectly. The mounting holes are standard 9x9 and 12x12, so my Flywoo motors will easily bolt on. I also gave slots for the battery strap 28 holes of 2.2x9.5 mm why so many holessss, and double-checked spacing for the GOKU F405 AIO board. After doing all the sketches, I made a full engineering drawing to lock the dimensions. Now it’s ready for CNC cutting or carbon sheet laser ( just kidding gonna 3d print the case i made this so i get idea of all dimensions)
+
+![Screenshot 2025-06-18 160126](https://github.com/user-attachments/assets/c99c8f06-cb98-4a40-bc6f-8bdcf789d0f3)
+![image](https://github.com/user-attachments/assets/04a41ec3-c1dd-4926-a1b6-537d8875b748)
+After finalizing the 2D sketch for my drone base plate, I moved on to the 3D stage today. First I completed the full outline, motor mount holes, and central stack layout. Then I did a quick zebra analysis ( idk y they call it zebra basically u to check surface smoothness and overall symmetry). Once everything felt solid, I extruded the body to give it thickness and form. Now the frame has proper depth and feels more real. Everything fits as per plan, and seeing the arms and center cutouts in 3D felt super satisfying.I rendered the basic frame
+
+![image](https://github.com/user-attachments/assets/8891f027-baf6-44cb-a2a1-718a462ffa51)
 
 
 
-
+ufff so satisfyinggg now 
 
 
 
