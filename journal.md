@@ -112,6 +112,10 @@ After finalizing the 2D sketch for my drone base plate, I moved on to the 3D sta
 
 ufff so satisfyinggg now 
 
+![image](https://github.com/user-attachments/assets/53a80209-6be0-40e9-8352-f97856bafb90)
+![image](https://github.com/user-attachments/assets/d6f9fca2-bb32-4db0-b11e-e68efc9e95c3)
+
+
 
 
 
