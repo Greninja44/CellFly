@@ -13,3 +13,33 @@ I saw how clean their wiring is, how compact the builds are. Everything matters 
 Also watched a few Indian FPV pilots doing whoop builds with parts sourced locally, gave me confidence that even simple setups can perform well if done right. Now I’m thinking, maybe I can apply some whoop techniques to my frame design — especially how they mount batteries and route wires so neatly.
 
 So yeah,. Tomorrow I'll probably go back to Fusion360 and rethink a few things based on what I learnt tonight.
+
+## June 18 Night – Parts selection :D(1:00 pm) ~~~~ 1-1.5 hours
+First we need brain for our build....
+So I picked the Flywoo GOKU F405 Nano 13A AIO because bro, it just makes sense for my build. I’m going with 2x 18650 Li-ion cells, and this AIO handles 1–2S power like a champ—no voltage drama,btw i fried kk2 flight controller before :(. It has  F405 chip, which is solid for Betaflight and doesn’t lag like those cheap chin-e-se-e boards. Plus, the 13A ESCs are already built-in, so I don’t have to mess with extra wires or waste space. It's super compact and lightweight, perfect for a 3-inch drone. And honestly, Flywoo is a chill brand—popular in the community and you can find it online in India without much hassle. Clean setup, decent power, less headache. Total value-for-money.
+You can buy on robu.in :https://robu.in/product/flywoo-goku-f405-hd-1-2s-12a-aio-no-rx-v2-icm42688/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWcP_heyelJofAKjckUvH3lkh&gclid=CjwKCAjwx8nCBhAwEiwA_z__07bz9Vc_dnlJw5IIb19OjYEXrGtS5e-V2WoIFc9hx4DoJGJ6R078uxoC58kQAvD_BwE
+
+![image](https://github.com/user-attachments/assets/02f79ad3-d2bb-4174-9d02-28265dd39b46)
+
+Next so that we selected aio, we need to look on motors now
+I went with the Flywoo ROBO 1202.5 11500KV motor because it's small but powerful—just right for a 3-inch build with 18650 cells. It’s super lightweight, so I won’t lose flight time or efficiency. The 11500KV rating is solid for 1–2S setups, and it’ll give me that quick throttle response without killing the batteries too fast. Also, it matches perfectly with the GOKU no tension BOSS, paisa vasool for sure
+
+You can buy on robu.in :https://robu.in/product/flywoo-robo-1202-5-11500kv-1pc/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWcP_heyelJofAKjckUvH3lkh&gclid=CjwKCAjwx8nCBhAwEiwA_z__022kY_rbuMXziUq0JqhvDjaNAlSUy6PoJ4jmkEZ93v-s-6t3XgQYkBoCCGcQAvD_BwE
+
+![image](https://github.com/user-attachments/assets/940579c4-a8d2-4700-a74c-5c3ffe68959b)
+![image](https://github.com/user-attachments/assets/8130e74e-56cb-4f05-87d1-8d5966e8137f)
+
+I decided to go with both the 2-blade and tri-blade props ( i want to test out and compare the best props) because I wanted flexibility depending on the flying style. The 2 blede are lightweight and super efficient—perfect for longer flight times and chill cruising. On the other hand, the 3 inch  give more control, better grip, and that snappy feel when I want to pull off freestyle tricks or fly tight lines ( which mostly i wont coz im chill guy). Both are 2mm hub, so they fit my motors easily, and honestly, switching them out based on the vibe feels way more fun ( im delusional ).
+links: 
+3 inch props:  https://www.drkstore.in/gemfan-hurricane-3016-durable-tri-blade-3-prop-4-pack/?attribute_pa_color=purple&attribute_pa_hub=2mm&gad_source=1&gad_campaignid=20102142213&gbraid=0AAAAAoK8pUhz2UhjOhvSReBWcbneg_R1s&gclid=CjwKCAjwx8nCBhAwEiwA_z__01FC64ecfKDJjrRZOa3uDZhGvENwvz3Mqr4Hu0zlMGX6cdBgmp4lxhoCibYQAvD_BwE 
+
+
+2 inch props: https://www.quadkart.in/gemfan-hurricane-3018-durable-2-blade-propeller-1-5-2mm-shaft-set-of-8/?attribute_pa_shaft=2mm&attribute_pa_colour=grey&gad_source=1&gad_campaignid=22331841763&gbraid=0AAAAACWP_Z6_Tia8EGwzoyRKb4fu0VRJz&gclid=CjwKCAjwx8nCBhAwEiwA_z__09Vqx5RIXff3Qj1RawqYIYNNFkjVhX4trOB45ygwaQa_t3Wg0eOZUhoC_O0QAvD_BwE
+
+![Screenshot 2025-06-18 133111](https://github.com/user-attachments/assets/87bf9151-14a4-46f8-a8fb-83fcd11c29f0)
+
+
+
+
+
+
