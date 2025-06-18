@@ -98,7 +98,7 @@ I found this PInout diagram ( i will b using this while building)on Goku website
 ![image](https://github.com/user-attachments/assets/ea6d1c0f-1dcd-4e43-9c61-c072aec55302)
 
 
-## June 17 ( 3:00 PM) – Starting frame design :D  ~~~~ 4-5hours
+## June 18 ( 1:00 PM) – Starting frame design :D  ~~~~ 4-5hours
 
 I properly sat down and designed the base plate for my custom drone, taking full inspiration from the Rekon35. Wanted it to be lightweight but strong, so I added those sleek cutouts in the arms and center. I measured out motor holes, and kept around 143 mm diagonal so my 3-inch props can fit perfectly. The mounting holes are standard 9x9 and 12x12, so my Flywoo motors will easily bolt on. I also gave slots for the battery strap 28 holes of 2.2x9.5 mm why so many holessss, and double-checked spacing for the GOKU F405 AIO board. After doing all the sketches, I made a full engineering drawing to lock the dimensions. Now it’s ready for CNC cutting or carbon sheet laser ( just kidding gonna 3d print the case i made this so i get idea of all dimensions)
 
@@ -132,4 +132,5 @@ For the battery section of my FPV drone, I chose to use a dual 18650 battery hol
 ![image](https://github.com/user-attachments/assets/80539f89-c04e-47ff-ba7f-542121b01d19)
 
 
+![image](https://github.com/user-attachments/assets/ffe4fc18-3663-4047-aef3-898c83d1f9c3)
 
