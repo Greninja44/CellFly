@@ -122,7 +122,7 @@ For the battery section of my FPV drone, I chose to use a dual 18650 battery hol
 Now its time for the compartment  to hold all the electronics 
 
 
-
+This is the base plate of the frame
 
 ![image](https://github.com/user-attachments/assets/22c0f377-b708-45f4-bba7-70356d35068f)
 
@@ -136,7 +136,7 @@ Now its time for the compartment  to hold all the electronics
 ![image](https://github.com/user-attachments/assets/13f8945c-2d68-4afa-b1a3-d1c782e9c726)
 
 
-This is the base plate of the frame . i am adding two structures inspired from rekon 35 . i only designed one arm the other i just duplicated 
+i am adding two structures inspired from rekon 35 . i only designed one arm the other i just duplicated 
 
 
 ![image](https://github.com/user-attachments/assets/80539f89-c04e-47ff-ba7f-542121b01d19)
