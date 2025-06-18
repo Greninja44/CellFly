@@ -14,9 +14,9 @@ Also watched a few Indian FPV pilots doing whoop builds with parts sourced local
 
 So yeah,. Tomorrow I'll probably go back to Fusion360 and rethink a few things based on what I learnt tonight.
 
-## June 18 Night – Parts selection :D(1:00 pm) ~~~~ 1-1.5 hours
+## June 18  – Parts selection :D(1:00 pm) ~~~~ 2-2.5 Hours
 First we need brain for our build....
-So I picked the Flywoo GOKU F405 Nano 13A AIO because bro, it just makes sense for my build. I’m going with 2x 18650 Li-ion cells, and this AIO handles 1–2S power like a champ—no voltage drama,btw i fried kk2 flight controller before :(. It has  F405 chip, which is solid for Betaflight and doesn’t lag like those cheap chin-e-se-e boards. Plus, the 13A ESCs are already built-in, so I don’t have to mess with extra wires or waste space. It's super compact and lightweight, perfect for a 3-inch drone. And honestly, Flywoo is a chill brand—popular in the community and you can find it online in India without much hassle. Clean setup, decent power, less headache. Total value-for-money   also also it has c typeeeeee
+So I picked the Flywoo GOKU F405 Nano 13A AIO because bro, it just makes sense for my build. I’m going with 2x 18650 Li-ion cells, and this AIO handles 1–2S power like a champ—no voltage drama,btw i fried kk2 flight controller before :(. It has  F405 chip, which is solid for Betaflight and doesn’t lag like those cheap chin-e-se-e boards. Plus, the 13A ESCs are already built-in, so I don’t have to mess with extra wires or waste space. It's super compact and lightweight, perfect for a 3-inch drone. And honestly, Flywoo is a chill brand—popular in the community and you can find it online in India without much hassle. Clean setup, decent power, less headache. Total value-for-money   also also it has c typeeeeee  also if i ever switch to Digital fpv this would be easy plug and play
 
 
 Link :https://robu.in/product/flywoo-goku-f405-hd-1-2s-12a-aio-no-rx-v2-icm42688/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWcP_heyelJofAKjckUvH3lkh&gclid=CjwKCAjwx8nCBhAwEiwA_z__07bz9Vc_dnlJw5IIb19OjYEXrGtS5e-V2WoIFc9hx4DoJGJ6R078uxoC58kQAvD_BwE
@@ -68,7 +68,8 @@ vtx:https://www.quadkart.in/hglrc-zeus-nano-350mw-16mm-20mm-25-5mm-vtx/?gad_sour
 
 
 So now that we choosed our camera and vts its time for the googles
-( cheap and avaible in india) which supports my ca,era and vtx:https://fpvguru.in/product/iflight-analog-fpv-goggles-with-dvr-function/
+( cheap and avaible in india) which supports my camera and vtx:
+https://fpvguru.in/product/iflight-analog-fpv-goggles-with-dvr-function/
 
 
 ![image](https://github.com/user-attachments/assets/8c0514f6-c879-46c1-88ff-4a3875239beb)
@@ -78,8 +79,26 @@ So now that we choosed our camera and vts its time for the googles
 I chose the iFlight analog goggles cause they’re perfect for my build—budget-friendly, lightweight, and come with a built-in DVR, so I can record all my flights and cringe later when I crash into a tree ( jking). The screen’s decent size (4.3 inches ah), and the 40-channel receiver means I’ll always find a clean frequency to fly on. Plus, it runs for around 3.5 hours with its own battery, so no stress about external packs. Picked them up from FPVGuru (Bengaluru), so it’s fast shipping, no customs tension, and no imported mark-up. Feels like a smart desi pick for my first proper FPV setup!
 
 
+The build is almost done: 
+
+now we look for a elrs transmitter for that we gonna buy the og and best transmitter choosen by most of the pple getting into fpv 
+THE POCKET:https://www.drkstore.in/radiomaster-pocket-radio-cc2500-elrs/?attribute_pa_model=cc2500&attribute_pa_color=charcoal&gad_source=1&gad_campaignid=20102142213&gbraid=0AAAAAoK8pUhz2UhjOhvSReBWcbneg_R1s&gclid=CjwKCAjwx8nCBhAwEiwA_z__0wpAbn3lB7VawDsYpTYBWp4grhScWuiXn-IZkBEZQhFRmLfL68dISBoCXi4QAvD_BwE
 
 
+
+![image](https://github.com/user-attachments/assets/74d4bfcf-cad3-437c-887f-8fee411dc3b6)
+
+
+
+I heard from my friends and reddit that   choose a high discharge 18650 battries so I chose the Sony VTC6 18650 because it will b solid  with 3000 mAh and handles high current without sag ( hopefully). It’s reliable, safe, and easily available in India—perfect for my 2-cell FPV setup.
+
+
+
+I found this PInout diagram ( i will b using this while building)on Goku website :
+![image](https://github.com/user-attachments/assets/ea6d1c0f-1dcd-4e43-9c61-c072aec55302)
+
+
+## June 18 ( 3:00 PM) – Starting frame design :D  ~~~~ 1-1.5 hours
 
 
 
