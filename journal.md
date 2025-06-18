@@ -2,7 +2,7 @@
 title: "Nano long range FPV Drone"
 author: "greninja44"
 description: "A long range drone using 18650 batteries"
-created_at: "2025-06-17"
+created_at: "2025-06-16"
 Total time spent: 
 ---
 ## June 16 Night – Tiny Whoop Research :D  ~~~~ 1-1.5 hours
@@ -116,6 +116,9 @@ ufff so satisfyinggg
 ![image](https://github.com/user-attachments/assets/d6f9fca2-bb32-4db0-b11e-e68efc9e95c3)
 
 For the battery section of my FPV drone, I chose to use a dual 18650 battery holder that I found for free online. After downloading the model, I verified the dimensions in Fusion 360 and ensured the fit would be snug and compact. The holder is perfectly suited for the Sony VTC6 3000mAh batteries I selected and keeps the cells securely in place during flight. It was satisfying to integrate a ready-made model into my custom drone design, saving both time and effort.
+![image](https://github.com/user-attachments/assets/c94358da-94de-4275-ab6b-425feb8378cb)
+
+
 
 
 
