@@ -19,17 +19,19 @@ All the design and drawing files are available as step and PDF in this repo.
 
 ## Electronics Used
 
-- **Flight Controller + ESC:** Flywoo GOKU F405 13A AIO
-- **Motors:** Flywoo ROBO 1202.5 11500KV (x4)
+- **Flight Controller + ESC:** Happy Model ELRS F4 2G4 AIO Flight controller
+- **Motors:** Pro-Range-D0703-12000KV 
 - **Camera:** Caddx Ant Nano
 - **VTX:** HGLRC Zeus Nano 350mW
 - **Props:** Gemfan 3018 2-blade and 3016 tri-blade
 - **Battery:** Sony VTC6 18650 Li-ion (x2)
 - **FPV Goggles:** iFlight Analog Goggles with DVR
-- **Radio Transmitter:** RadioMaster Pocket (ELRS)
+- **Radio Transmitter:** Jumper Smart Color Screen ELRS
 
 
-The whole build will cost  around **₹33,000** (approx $380 USD). You can check the full list in the `CellFly.xlsx` file in this repo.
+
+
+The whole build will cost  around **₹27715** (approx $319.335 USD). You can check the full list in the `CellFly.xlsx` file in this repo.
 
 ## Why I Made This
 
