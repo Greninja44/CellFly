@@ -184,3 +184,18 @@ Pro-Range-D0703-12000KV CCW Brushless Drone Motor is also betetr compared to the
 
 Now lets start modelling the mounts:
 
+So iadded a gps mount and camera mount:
+![image](https://github.com/user-attachments/assets/3a7f24bd-041f-4149-b7c6-e21e7d6dd145)
+![image](https://github.com/user-attachments/assets/9035c17a-8a3f-4cc9-a1d3-1f94a586900a)
+
+
+This is the final model:
+
+![image](https://github.com/user-attachments/assets/87927589-263b-4e08-8c1a-fc912310665e)
+
+
+![image](https://github.com/user-attachments/assets/dd056e39-7113-490d-b250-4e4dee219c9e)
+
+
+
+
