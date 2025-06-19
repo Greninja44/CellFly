@@ -154,3 +154,33 @@ This is the final rendered model:
 Im gonna include all the 2d and 3d models in this repo :)
 I should still design a insta 360 holder and gps mount for taking good shots but would do it once the project gets approved 
 
+## Day 3
+Acon told i need to add all other components of the drone and reduce some cost
+Im including new aio reducing some bucks
+
+
+https://robu.in/product/happy-model-elrs-f4-2g4-aio-flight-controller/?gad_source=1&gad_campaignid=17419548928&gbraid=0AAAAADvLFWeFSM0s4T3eFtXaKcBRRYfeM&gclid=CjwKCAjw6s7CBhACEiwAuHQckvKLisGcxDe1oz3ytny5ckEbFG-twqEZR9luFOZP_NekLo-PWeTVCRoCtSkQAvD_BwE
+
+![image](https://github.com/user-attachments/assets/8c148665-31c7-43b4-923e-8a3a32cff6d7)
+
+
+Happy Model ELRS F4 2G4 AIO Flight controller is almost similar to goku but less n cost also the dimensions are almost same so no worries
+
+Now im changing the elrs too :Jumper Smart Color Screen ELRS Radio Controller with Hall Sensor Gimbals is also a good transmitter
+
+![image](https://github.com/user-attachments/assets/2be66bd7-f12f-4841-a3e9-36c05b0b5073)
+
+
+
+
+Also changed the motors: 
+
+Pro-Range-D0703-12000KV CCW Brushless Drone Motor is also betetr compared to the flywoo, this will be effiecnt with aio
+
+
+![image](https://github.com/user-attachments/assets/37e06e62-201e-4f74-9aec-5828b0165810)
+
+
+
+Now lets start modelling the mounts:
+
