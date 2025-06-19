@@ -41,6 +41,15 @@ I wanted to build a drone completely from scratch — not just buy a frame and p
 ## Why it deserves 10 points
  I designed and built everything from scratch. I used affordable parts easily available in India, including 18650 batteries for better safety and longer flight time. It’s fully functional, gives real FPV output, and is documented properly so others can build it too. I’ve dreamt of making a FPV drone , and this was made with full effort, combining design, electronics in one project.
 
+## 3D model preview
+
+![Screenshot 2025-06-19 135411](https://github.com/user-attachments/assets/93d1399f-8a4a-4fb6-b37e-0c6120c552d3)
+
+![Screenshot 2025-06-19 135354](https://github.com/user-attachments/assets/5e86da2c-fcb5-4810-bcd3-3feb1138f243)
+
+
+
+
  ## Drone builds Before:
  An autonoumous Drone built using pixhawk  ( bought parts ,assembled and programmed)
 ![WhatsApp Image 2025-05-22 at 01 37 09_1e42fc9f](https://github.com/user-attachments/assets/7f9a6522-9043-4c93-856d-ad6397117804)
