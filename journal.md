@@ -3,7 +3,7 @@ title: "Nano long range FPV Drone"
 author: "greninja44"
 description: "A long range drone using 18650 batteries"
 created_at: "2025-06-16"
-Total time spent: 11.5~12 hours
+Total time spent: 18-19 hours
 ---
 ## June 16 Night – Tiny Whoop Research :D  ~~~~ 2-3 hours
 
@@ -195,6 +195,25 @@ This is the final model:
 
 
 ![image](https://github.com/user-attachments/assets/dd056e39-7113-490d-b250-4e4dee219c9e)
+
+
+## June 22
+After a long 2 day research and deisgning..... 
+
+![Screenshot 2025-06-22 012106](https://github.com/user-attachments/assets/97492741-433c-4445-b7d9-fe6c6f185b3c)
+
+![Screenshot 2025-06-22 012039](https://github.com/user-attachments/assets/c8ddbfbd-e48d-400d-a162-3feaeed81e08)
+
+![Screenshot 2025-06-22 000027](https://github.com/user-attachments/assets/7b531eed-288c-4556-915f-d5fe0533008b)
+![Screenshot 2025-06-21 235932](https://github.com/user-attachments/assets/e62978ad-39e4-4e73-9d16-ac373dea1d10)
+
+
+I just finished designing the PCB for both the transmitter and receiver for my drone project. I haven’t tested it out yet, but I’m quite excited to see how it performs once I get it fabricated. Till now I was using jumper wires and breadboard which was messy and not reliable for actual use. So I thought it’s time to make a proper PCB for clean connections and to save space. Along with that, I’m planning to reuse some leftover acrylic sheets from my previous project to make a custom case for the transmitter. I’ll try to cut it properly and maybe paint it a bit to give it a cool look. It’s not fully ready yet, but slowly all parts of my drone setup are coming together. Can’t wait to test everything and see it fly with my own electronics.
+
+
+ive added schematics , pcb geber and code and updated BOM to repo
+
+
 
 
 
