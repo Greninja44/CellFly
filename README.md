@@ -26,7 +26,7 @@ All the design and drawing files are available as step and PDF in this repo.
 - **Props:** Gemfan 3018 2-blade and 3016 tri-blade
 - **Battery:** Sony VTC6 18650 Li-ion (x2)
 - **FPV Goggles:** iFlight Analog Goggles with DVR
-- **Radio Transmitter:** Jumper Smart Color Screen ELRS
+
 
 
 
