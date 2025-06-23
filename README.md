@@ -31,7 +31,7 @@ All the design and drawing files are available as step and PDF in this repo.
 
 
 
-The whole build will cost  around **₹27715** (approx $319.335 USD). You can check the full list in the `CellFly.xlsx` file in this repo.
+The whole build will cost  around (approx $275 USD). You can check the full list in the `CellFly.xlsx` file in this repo.
 
 ## Why I Made This
 
