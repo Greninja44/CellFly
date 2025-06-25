@@ -214,7 +214,7 @@ I just finished designing the PCB for both the transmitter and receiver for my d
 ive added schematics , pcb geber and code and updated BOM to repo
 
 
+## JUNE 25 
 
-
-
+TO MAKE THIS PROJECT 10 points worth , imma gonna design my own Flight controller
 
