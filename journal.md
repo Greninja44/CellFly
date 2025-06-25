@@ -3,9 +3,9 @@ title: "Nano long range FPV Drone"
 author: "greninja44"
 description: "A long range drone using 18650 batteries"
 created_at: "2025-06-16"
-Total time spent: 25-28 hours
+Total time spent: 38-40 hours
 ---
-## June 16 Night – Tiny Whoop Research :D  ~~~~ 2-3 hours
+## June 16 Night – Tiny Whoop Research :D  ~~~~ 5-6 hours
 
 Today night I didn’t do any building work,just full research.Got fully into the world of tiny whoops —>kept watching YouTube videos one after another. Started with basic builds but then I ended up seeing modded whoops, freestyle edits, tuning guides, and even long-range micro whoops Even though I’m building a nano 18650 cruiser, watching these gave me lots of ideas. Tiny whoops are crazy efficient — most of them run on 1S and still fly solid for 4–5 mins. People use super light components like micro motors and even BT2.0 connectors instead of bulky XT30. They tune everything so tightly just to save 0.5g.
 I saw how clean their wiring is, how compact the builds are. Everything matters in these small frames — even motor wire position and capacitor size. I think some of that applies to my build too. No ducts in my case, but weight saving and clean layout is definitely something I need to focus on more now.
@@ -14,7 +14,7 @@ Also watched a few Indian FPV pilots doing whoop builds with parts sourced local
 
 So yeah,. Tomorrow I'll probably go back to Fusion360 and rethink a few things based on what I learnt tonight.
 
-## June 17  – Parts selection :D(1:00 pm) ~~~~ 2-2.5 Hours
+## June 17  – Parts selection :D(1:00 pm) ~~~~ 4-5Hours
 First we need brain for our build....
 So I picked the Flywoo GOKU F405 Nano 13A AIO because bro, it just makes sense for my build. I’m going with 2x 18650 Li-ion cells, and this AIO handles 1–2S power like a champ—no voltage drama,btw i fried kk2 flight controller before :(. It has  F405 chip, which is solid for Betaflight and doesn’t lag like those cheap chin-e-se-e boards. Plus, the 13A ESCs are already built-in, so I don’t have to mess with extra wires or waste space. It's super compact and lightweight, perfect for a 3-inch drone. And honestly, Flywoo is a chill brand—popular in the community and you can find it online in India without much hassle. Clean setup, decent power, less headache. Total value-for-money   also also it has c typeeeeee  also if i ever switch to Digital fpv this would be easy plug and play
 
@@ -98,7 +98,7 @@ I found this PInout diagram ( i will b using this while building)on Goku website
 ![image](https://github.com/user-attachments/assets/ea6d1c0f-1dcd-4e43-9c61-c072aec55302)
 
 
-## June 18 ( 1:00 PM) – Starting frame design :D  ~~~~ 5-6 hours
+## June 18 ( 1:00 PM) – Starting frame design :D  ~~~~ 6-8hours
 
 I properly sat down and designed the base plate for my custom drone, taking full inspiration from the Rekon35. Wanted it to be lightweight but strong, so I added those sleek cutouts in the arms and center. I measured out motor holes, and kept around 143 mm diagonal so my 3-inch props can fit perfectly. The mounting holes are standard 9x9 and 12x12, so my Flywoo motors will easily bolt on. I also gave slots for the battery strap 28 holes of 2.2x9.5 mm why so many holessss, and double-checked spacing for the GOKU F405 AIO board. After doing all the sketches, I made a full engineering drawing to lock the dimensions. Now it’s ready for CNC cutting or carbon sheet laser ( just kidding gonna 3d print the case i made this so i get idea of all dimensions)
 
