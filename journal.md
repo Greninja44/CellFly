@@ -243,7 +243,7 @@ Resource:
 
 https://www.st.com/en/microcontrollers-microprocessors/stm32h750vb.html
 
-
+https://youtu.be/Rv1MVkZuGbg?si=6kMHQxuushMeDxte
 
 
 
@@ -263,4 +263,14 @@ To power the STM32H750 and all the sensors, I used the AMS1117-3.3 linear regula
 
 
 For the STM32H750 to run accurately and to use USB communication, it needs an external clock. I chose a 16 MHz crystal, which is a standard choice and supported directly by the STM32. This crystal helps keep the timing perfect for tasks like PWM generation, USB, and real-time loops. I added two 22pF capacitors as recommended, to make sure the crystal oscillates correctly. Without this, the chip might not even start properly.
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/5fe22434-9fcd-4f49-af77-423212d57fc6)
+
+
+
+I added a USB-C connector to allow easy programming and communication with my PC. USB-C is more modern and reversible, which makes it better than old micro-USB. I connected it to the STM32’s USB pins for uploading firmware and debugging through DFU mode. I also included ESD protection diodes to protect the microcontroller from voltage spikes or static damage through the cable. This makes firmware uploading simple and safe.
 
