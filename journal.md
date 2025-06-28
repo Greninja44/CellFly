@@ -322,3 +322,30 @@ For altitude sensing, I included the MS560702BA03 barometer. This sensor measure
 Final Schematic: I took a lot of help from youtube and ai to make this happen refer the videos for drawing your circuit
 
 
+
+Now lets start designing the PCB:
+
+im using easyeda  ( i dont have much experience in kicad)
+
+
+
+![image](https://github.com/user-attachments/assets/53f16d6c-95fc-4ef9-a0fa-b52fe4ab032e)
+
+
+![image](https://github.com/user-attachments/assets/94ae1854-693b-406e-8fa1-6a6163bb8555)
+
+
+
+
+ tried to keep the layout clean and followed basic rules like short traces for crystals, decoupling caps close to the MCU pins, and separate analog and digital zones where possible. Still learning how to do proper ground planes and power routing, but I think it’s looking solid for now. Feels great to see the board slowly take shape on the screen. This is the first time I’m making such a complex PCB  flight controller level(btw u can checkout my usb hub repo). Hopefully, it works on the first try . Next, I’ll focus on routing the signals carefully and making sure no traces cross messy paths. Step by step, bro. Desi jugaad, global standard.
+
+
+
+
+![image](https://github.com/user-attachments/assets/88f08487-0f0c-488e-8314-fbf2a9ec13cb)
+
+
+![image](https://github.com/user-attachments/assets/68460cf8-14f7-459d-80e5-ce800e5d76b9)
+
+
+
