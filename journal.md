@@ -274,3 +274,44 @@ For the STM32H750 to run accurately and to use USB communication, it needs an ex
 
 I added a USB-C connector to allow easy programming and communication with my PC. USB-C is more modern and reversible, which makes it better than old micro-USB. I connected it to the STM32’s USB pins for uploading firmware and debugging through DFU mode. I also included ESD protection diodes to protect the microcontroller from voltage spikes or static damage through the cable. This makes firmware uploading simple and safe.
 
+
+![image](https://github.com/user-attachments/assets/5628ca4a-0adc-4b9a-9d3b-514f65ebfb61)
+
+
+
+
+I added a standard SWD header for direct programming and debugging using tools like ST-Link. This is super helpful if USB flashing fails or if I want to debug code at a low level. It gives me access to the SWCLK and SWDIO pins, along with reset and power. This makes my board more flexible and developer-friendly, especially during early testing.
+
+
+
+
+![image](https://github.com/user-attachments/assets/6c8f0aae-47e4-4e44-89ec-931b06fdfdf5)
+
+
+
+
+For motion sensing, I used the ICM-20602, a 6-axis sensor that combines a 3-axis accelerometer and 3-axis gyroscope. This is a very common and reliable IMU used in many commercial drones. It gives real-time data about the drone’s orientation and movement, which is crucial for stabilization and control. I connected it over SPI for faster and noise-free communication compared to I2C.
+
+
+
+![image](https://github.com/user-attachments/assets/43e4bd14-2f87-455b-89f0-bd8819b37885)
+
+
+
+
+
+To detect the drone’s heading (which direction it's facing), I added the LIS3MDLTR magnetometer. This is a 3-axis digital compass that helps with yaw control and GPS-based navigation. It’s lightweight, consumes low power, and works over SPI or I2C. I chose it because it’s compatible with Betaflight and ArduPilot and gives fairly accurate directional data when placed away from interference sources.
+
+
+
+![image](https://github.com/user-attachments/assets/b0a0ec3d-e529-4f8f-8c7e-577a87e01d9a)
+
+
+
+
+For altitude sensing, I included the MS560702BA03 barometer. This sensor measures air pressure and lets the flight controller calculate how high the drone is flying. It’s especially useful for features like altitude hold and smooth take-off/landing. It’s accurate, small, and works well over SPI, which is why I preferred it over older I2C-based models.
+
+
+
+
+
