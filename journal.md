@@ -197,7 +197,7 @@ This is the final model:
 ![image](https://github.com/user-attachments/assets/dd056e39-7113-490d-b250-4e4dee219c9e)
 
 
-## June 22
+## June 22  6-8 Hours
 After a long 2 day research and deisgning..... 
 
 ![Screenshot 2025-06-22 012106](https://github.com/user-attachments/assets/97492741-433c-4445-b7d9-fe6c6f185b3c)
@@ -214,7 +214,7 @@ I just finished designing the PCB for both the transmitter and receiver for my d
 ive added schematics , pcb geber and code and updated BOM to repo
 
 
-## JUNE 25 
+## JUNE 25  ( i did research from june 22 and i started building it)  ~~~ 20 + 6 Hours
 
 TO MAKE THIS PROJECT 10 points worth , imma gonna design my own Flight controller
 
@@ -323,7 +323,7 @@ Final Schematic: I took a lot of help from youtube and ai to make this happen re
 
 
 
-Now lets start designing the PCB:
+Now lets start designing the PCB:  ~ 2 Hours
 
 im using easyeda  ( i dont have much experience in kicad)
 
@@ -346,6 +346,11 @@ im using easyeda  ( i dont have much experience in kicad)
 
 
 ![image](https://github.com/user-attachments/assets/68460cf8-14f7-459d-80e5-ce800e5d76b9)
+
+
+
+I added The new files and updated BOM
+Hope it gets approved :)
 
 
 
