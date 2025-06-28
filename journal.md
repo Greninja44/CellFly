@@ -242,3 +242,25 @@ For my flight controller, I chose the STM32H750VBT6 microcontroller, which is pa
 Resource:
 
 https://www.st.com/en/microcontrollers-microprocessors/stm32h750vb.html
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/2ffc10f7-6878-4fe4-a0cd-86cd279539a5)
+
+
+To power the STM32H750 and all the sensors, I used the AMS1117-3.3 linear regulator. Since my input will usually be 5V (from USB or a battery circuit), I needed a reliable way to bring it down to 3.3V, which is the safe operating voltage for most components. AMS1117 is simple, widely used, and gets the job done. I’ve added input and output capacitors to keep the voltage clean and prevent sudden dips, which is very important for microcontroller stability
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/fb06a954-f825-43ef-b18a-a9bf3d4e4fb0)
+
+
+
+
+For the STM32H750 to run accurately and to use USB communication, it needs an external clock. I chose a 16 MHz crystal, which is a standard choice and supported directly by the STM32. This crystal helps keep the timing perfect for tasks like PWM generation, USB, and real-time loops. I added two 22pF capacitors as recommended, to make sure the crystal oscillates correctly. Without this, the chip might not even start properly.
+
