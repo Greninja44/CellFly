@@ -353,4 +353,18 @@ I added The new files and updated BOM
 Hope it gets approved :)
 
 
+FINAL RENDERED MODEL:
+
+
+![image](https://github.com/user-attachments/assets/b2ddb33c-af7d-4127-b430-0bebcf9b27c7)
+
+
+![image](https://github.com/user-attachments/assets/6acda325-1a31-4f14-925e-ac8f16fd6505)
+
+
+
+
+
+
+
 
