@@ -315,3 +315,10 @@ For altitude sensing, I included the MS560702BA03 barometer. This sensor measure
 
 
 
+![image](https://github.com/user-attachments/assets/40af1640-0a8c-4390-9531-761993304138)
+
+
+
+Final Schematic: I took a lot of help from youtube and ai to make this happen refer the videos for drawing your circuit
+
+
