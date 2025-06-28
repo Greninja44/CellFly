@@ -218,3 +218,16 @@ ive added schematics , pcb geber and code and updated BOM to repo
 
 TO MAKE THIS PROJECT 10 points worth , imma gonna design my own Flight controller
 
+
+I spent almost 20 hours just researching about flight controllers. At first I thought it would be simple, but once I got into it, I realised this thing is the actual brain of the drone. Everything runs through it — balancing, reading sensors, getting commands from the receiver, sending signals to ESCs — all of it. I watched a bunch of YouTube videos, from Indian to international creators, and also studied open-source boards like Betaflight, ArduPilot, and Matek. Most of them use STM32 microcontrollers, MPU6000 for gyro and accel, and some even have barometer, SD card, and USB support.
+
+
+
+![image](https://github.com/user-attachments/assets/83a43281-41fa-4228-bc84-79c14e3879c2)
+
+
+NAHHHH BRO made a controller using esp32 which supports beta flight
+
+Earlier I was managing everything with breadboards and jumper wires, but now I feel it’s time to level up — I’m going to design my own flight controller. Full desi style, no ready-made parts. Since I already made my own transmitter and receiver, this will make the whole setup fully custom. If I can pull this off, it’ll be a full handmade drone from scratch. Now I’m gonna start slowly designing the circuit and layout, and test everything bit by bit.
+
+## June 28
