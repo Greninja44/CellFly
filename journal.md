@@ -3,7 +3,7 @@ title: "Nano long range FPV Drone"
 author: "greninja44"
 description: "A long range drone using 18650 batteries"
 created_at: "2025-06-16"
-Total time spent: 38-40 hours
+Total time spent: 52-55 hours
 ---
 ## June 16 Night – Tiny Whoop Research :D  ~~~~ 5-6 hours
 
