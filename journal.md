@@ -231,3 +231,14 @@ NAHHHH BRO made a controller using esp32 which supports beta flight
 Earlier I was managing everything with breadboards and jumper wires, but now I feel it’s time to level up — I’m going to design my own flight controller. Full desi style, no ready-made parts. Since I already made my own transmitter and receiver, this will make the whole setup fully custom. If I can pull this off, it’ll be a full handmade drone from scratch. Now I’m gonna start slowly designing the circuit and layout, and test everything bit by bit.
 
 ## June 28
+
+
+![image](https://github.com/user-attachments/assets/0f851f65-fb2e-4aff-941d-7bd75d2694b6)
+
+For my flight controller, I chose the STM32H750VBT6 microcontroller, which is part of ST’s high-performance H7 series. It runs at a blazing fast 480 MHz and comes with 1 MB of RAM, making it perfect for running complex flight algorithms, sensor fusion, and real-time control loops without any lag. Unlike the common F4 or F1 chips used in many open-source flight controllers, this H7 chip gives me a lot more headroom for future upgrades like GPS navigation, data logging, or advanced filtering. It supports multiple communication interfaces like SPI, I2C, UART, USB, and also has enough PWM outputs to control multiple motors. Since it requires a stable 3.3V power supply, proper decoupling capacitors, and an external 16 MHz crystal for USB and clock stability, I carefully included all of that in my design. Overall, this chip makes my project future-proof and powerful just like a supercharged brain for my drone.
+
+
+
+Resource:
+
+https://www.st.com/en/microcontrollers-microprocessors/stm32h750vb.html
