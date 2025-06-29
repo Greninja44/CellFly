@@ -19,7 +19,7 @@ All the design and drawing files are available as step and PDF in this repo.
 
 ## Electronics Used
 
-- **Flight Controller + ESC:** Happy Model ELRS F4 2G4 AIO Flight controller
+- **Flight Controller : custom
 - **Motors:** Pro-Range-D0703-12000KV 
 - **Camera:** Caddx Ant Nano
 - **VTX:** HGLRC Zeus Nano 350mW
@@ -50,7 +50,9 @@ I wanted to build a drone completely from scratch — not just buy a frame and p
 ![image](https://github.com/user-attachments/assets/2b71b38d-d353-4241-a08b-e39abdda5a93)
 ![image](https://github.com/user-attachments/assets/71a685c2-a602-426c-898e-0b8804a6ed55)
 
+![Screenshot 2025-06-28 213600](https://github.com/user-attachments/assets/d87a664c-ff9a-485a-911f-c4c99bf7c666)
 
+![Screenshot 2025-06-28 213501](https://github.com/user-attachments/assets/51b23967-814c-421f-95c7-707067cb00fb)
 
 
 
