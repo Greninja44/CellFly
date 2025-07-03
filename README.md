@@ -57,10 +57,4 @@ I wanted to build a drone completely from scratch — not just buy a frame and p
 
 
 
- ## Drone builds Before:
- An autonoumous Drone built using pixhawk  ( sourced parts ,assembled and programmed)
-![WhatsApp Image 2025-05-22 at 01 37 09_1e42fc9f](https://github.com/user-attachments/assets/7f9a6522-9043-4c93-856d-ad6397117804)
-
-![WhatsApp Image 2025-05-22 at 01 37 18_424764da](https://github.com/user-attachments/assets/203937e6-2aaf-470c-8f97-b660618e6f2c)
-
 
